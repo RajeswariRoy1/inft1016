@@ -1,19 +1,19 @@
-<style type="text/css">
-            h1{font-size: 1.33em;}
-            h2{font-size: 1.17em;}
+
+h1{font-size: 1.33em;}
+h2{font-size: 1.17em;}
 
 
-        p{margin: 0 0 0.5em 0;}
-        h1, h2{margin: 10pt 0 2pt 0;}
+p{margin: 0 0 0.5em 0;}
+h1, h2{margin: 10pt 0 2pt 0;}
 
-        p:first-of-type{
-            font-size: 2.17em;
-            line-height: 1.33em;
-            font-family: Verdana, sans-serif;
-        }
-        p{text-indent: 5em;}
+p:first-of-type{
+    font-size: 2.17em;
+    line-height: 1.33em;
+    font-family: Verdana, sans-serif;
+    }
+p{text-indent: 5em;}
 
-        body{
-                background-color: rgb(238, 230, 230);
-        }
-        </style>
+body{
+    background-color: rgb(238, 230, 230);
+    max-width: 800px;
+    }

@@ -36,4 +36,18 @@ nav ul{
 }
 nav ul li{
     text-align: center;
+    display: inline-flex;
+}
+aside{
+    color: #859900;
+}
+aside ul li a{
+    color:#DC322F;
+}
+aside ul li a:hover{
+    color:#268BD2
+}
+
+p{
+    text-indent: 5em;
 }
