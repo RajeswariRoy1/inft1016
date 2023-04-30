@@ -16,6 +16,9 @@ main{
     color:#839496;
 }
 
-li{
+a{
     color: #D33682;
+}
+a:hover{
+    color: #FF793B;
 }
