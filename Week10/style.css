@@ -30,3 +30,10 @@ a:hover{
     border-width: 3px;
     border-color: #2aa198;
 }
+
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    text-align: center;
+}
