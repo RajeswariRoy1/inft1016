@@ -4,10 +4,14 @@ body{
 
 header{
     background-color: #073642;
-    text-decoration-color: #839496;
+    color: #839496;
 }
 
 footer{
     background-color: #073642;
+    color: #839496;
 }
 
+main{
+    color:#839496;
+}
