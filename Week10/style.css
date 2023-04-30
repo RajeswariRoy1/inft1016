@@ -57,3 +57,9 @@ p{
 h2{
     color:#B58900 ;
 }
+article h2{
+    padding-top: 50px;
+}
+article h3{
+    padding-top: 50px;
+}
