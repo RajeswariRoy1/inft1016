@@ -1,5 +1,7 @@
 body{
     background-color:  #002B36;
+    max-width: 800px;
+
 }
 
 header{
@@ -50,4 +52,8 @@ aside ul li a:hover{
 
 p{
     text-indent: 5em;
+}
+
+h2{
+    color:#B58900 ;
 }
