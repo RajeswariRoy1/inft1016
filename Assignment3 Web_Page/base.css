@@ -35,4 +35,12 @@ html{
       nav li {
         margin: 0 10px;
       }
+
+      body {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+      h1, h2, h3 {
+        padding-top: 50px;
+      }
     
