@@ -28,4 +28,8 @@ html{
       h2{
         font-size: 100%;
       }
+      nav ul {
+        display: flex;
+        justify-content: center;
+      }
     
