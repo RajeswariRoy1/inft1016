@@ -43,5 +43,9 @@
               document.getElementById("heading").textContent = "Hello, " + x + "!";
               localStorage.setItem("username", x);
             }
-        
+            var storedName = localStorage.getItem("username");
+      if (storedName) {
+        document.getElementById("heading").textContent = "Hello, " + storedName + "!";
+      }
+    </script>      
     
