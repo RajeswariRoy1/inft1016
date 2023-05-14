@@ -37,4 +37,11 @@
         <h1 id="heading">Hello, Welcome to bird site!</h1>  
         <input type="text" id="myText" placeholder="Enter your name!"> 
         <button onclick="myFunction()">Apply!</button>
+        <script>
+            function myFunction() {
+              var x = document.getElementById("myText").value;
+              document.getElementById("heading").textContent = "Hello, " + x + "!";
+              localStorage.setItem("username", x);
+            }
+        
     
