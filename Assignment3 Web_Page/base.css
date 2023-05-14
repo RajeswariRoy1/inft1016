@@ -21,3 +21,7 @@ html{
      .section-box {
         padding: 10px;
       }
+      header h1{
+        text-align: center;
+        font-size: 300%;
+      }
