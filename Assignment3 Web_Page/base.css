@@ -5,4 +5,7 @@ html{
     --font-color: rgb(29, 198, 217);
     --heading-color: rgb(7,54,66);
   }
-  
+  html[data-theme="dark"] {
+    --primary-color: rgb(255,212,201);
+    --secondary-color: rgb(167,43,54);
+  }
