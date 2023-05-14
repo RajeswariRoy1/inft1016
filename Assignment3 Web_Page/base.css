@@ -13,3 +13,8 @@ html{
     --heading-color: rgb(247,201,189);
   
   }
+
+  body {color: var(--primary-color);
+    background-color: var(--background-color);
+    
+     }
